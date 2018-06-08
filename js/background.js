@@ -17,8 +17,8 @@
  *   + Added mobile detection
  *   + In-depth mobile+debug options
  *
- * @author  pbondoer - http://bondoer.fr/
- * @license CC0 - https://creativecommons.org/publicdomain/zero/1.0/
+ * @author  pbondoer - 
+ * @license CC0 - 
  */
 
 window.addEventListener("load", function() {
